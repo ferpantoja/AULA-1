@@ -1,0 +1,16 @@
+#nomeCachorro {
+  color: fuchsia;
+}
+#nomeGato {
+  color: blue;
+}
+.corFundoVerde {
+  background-color: #10bc10a8;
+}
+
+button {
+  border-radius: 30px;
+  width: 100px;
+  height: 100px;
+  background-color: aquamarine;
+}
